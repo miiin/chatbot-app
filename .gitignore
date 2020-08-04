@@ -1,0 +1,17 @@
+/node_modules
+/build
+/client/node_modules
+
+.DS_Store
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.vscode
+
+dev.js
+./server/config/dev.js
+test-chat-bot-app-285009-c63f0e1794e1.json
+./server/config/test-chat-bot-app-285009-c63f0e1794e1.json
+config
